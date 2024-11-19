@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:4.0
+FN:Abhinav Hotel
+TEL;TYPE=VOICE,pref:9446765113
+ADR;TYPE=work;LABEL="Abhinav Hotel, Kalungu .Jn Vithura   ":;;Abhinav Hotel, Kalungu .Jn;Vithura;;;
+PRODID:-//BBros LLC//BVCard.com 2.0.1//EN
+item1.URL;type=pref:bvcard.com
+item1.X-ABLabel:vCard generator
+END:VCARD
